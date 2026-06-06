@@ -82,16 +82,10 @@ If you wish to build the project from the source code, follow these steps:
 * A physical Android device connected via USB (with USB Debugging enabled) or an Emulator with camera support.
 
 ### 2. Clone the Repository
-
-```bash
 git clone <https://github.com/Shreya-Srivastava190/biometric.git>
 cd biometric
-```
 
 ### 3. Install Dependencies
-
-```bash
 npm install
-```
-npx react-native run-android
-```
+
+
